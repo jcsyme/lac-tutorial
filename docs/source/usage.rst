@@ -32,5 +32,6 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
-.. code::
-   df_in = pd.DataFrame(table)
+
+>>> df_in = pd.DataFrame(table)
+>>> df_in.reset_index(drop = True, inplace = True)
