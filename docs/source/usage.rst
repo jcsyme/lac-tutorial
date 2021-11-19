@@ -33,5 +33,7 @@ For example:
 ['shells', 'gorgonzola', 'parsley']
 
 
->>> df_in = pd.DataFrame(table)
->>> df_in.reset_index(drop = True, inplace = True)
+.. csv-table:: Gasses
+   :file: ./attribute_gas.csv
+   :widths: 25, 35, 20, 20
+   :header-rows: 1
