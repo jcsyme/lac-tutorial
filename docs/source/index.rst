@@ -1,13 +1,11 @@
 Welcome to Lumache's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**LAC-IDPM** (Latin American Integrated Decarbonization Pathways Model) is an
+integrated Python/Julia model used to facilitate exploratory analyses of decarbonization
+transformations too sectors at the country level. It
 
 Check out the :doc:`general_data` section to get started.
-
 
 Metavariables and Constructing Input Parameters
 -----------------------------------------------
@@ -36,3 +34,7 @@ Contents
 
    general_data
    afolu
+   circular_economy
+   energy
+   ippu
+   dimensions_of_analysis

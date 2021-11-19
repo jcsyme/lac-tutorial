@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'LAC-IDPM'
+copyright = '2021, RAND Corporation'
+author = 'James Syme, Edmundo Molina Perez, Nidhi Kalra'
 
 release = '0.1'
 version = '0.1.0'
