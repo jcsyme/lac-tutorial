@@ -1,0 +1,12 @@
+﻿ Sector,Subsector,``$ABBREVIATION-SUBSECTOR$``,Description,Model
+AFOLU,Agriculture,``agrc``,Agricultural activity ....,Python
+AFOLU,Forest,``frst``,Forest activity ....,Python
+AFOLU,Land Use,``lndu``,Land use activity ....,Python
+AFOLU,Livestock,``lvst``,Livestock activity ....,Python
+Circular Economy,Liquid Waste,``wali``,Activity (demand and emission) associated with emissions from domestic and industrial liquid waste disposal and treatment,Python
+Circular Economy,Solid Waste,``waso``,Activity (demand and emission) associated with emissions from domestic and industrial solid waste disposal and treatment ,Python
+Energy,Buildings ,``bldg``,"Stationary emissions in commercial, residential, and municipal buildings (e.g., water heaters, gas stoves, fireplaces, etc.)....",Python
+Energy,Electricity Generation,``elec``,Activity (demand and emission) associated with the generation of electricity ....,Julia
+Energy,Industrial Energy,``inen``,Activity (demand and emission) associated with the energy generation and use in industry,Julia
+Energy,Transportation,``trns``,Activity (demand and emission) associated with the generation of electricity ....,Julia
+IPPU,IPPU,``ippu``,Activity (demand and emission) associated with industrial processes and product use,Python
