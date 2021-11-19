@@ -32,3 +32,5 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+.. code::
+   df_in = pd.DataFrame(table)
