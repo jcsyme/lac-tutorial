@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+LAC-IDPM Documentation
 ===================================
 
 **LAC-IDPM** (Latin American Integrated Decarbonization Pathways Model) is an
