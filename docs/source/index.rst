@@ -5,7 +5,7 @@ LAC-IDPM Documentation
 integrated Python/Julia model used to facilitate exploratory analyses of decarbonization
 transformations too sectors at the country level. It
 
-Check out the :doc:`general_data` section to get started.
+Check out the :doc:`General Data <../general_data>` section to get started.
 
 Metavariables and Constructing Input Parameters
 -----------------------------------------------
