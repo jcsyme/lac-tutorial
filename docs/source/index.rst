@@ -1,7 +1,7 @@
 LAC-IDPM Documentation
 ===================================
 
-**LAC-IDPM** (Latin American Integrated Decarbonization Pathways Model) is an
+**LAC-IDPM** (Latin American and the Caribbean Integrated Decarbonization Pathways Model) is an
 integrated Python/Julia model used to facilitate exploratory analyses of decarbonization
 transformations too sectors at the country level. It
 
