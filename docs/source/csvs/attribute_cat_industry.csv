@@ -54,7 +54,7 @@ Metals,``metals``,"Includes emissions from
 Non-Energy Product,``non_energy_products``,"Includes the use of the substances in industrial processes that cause emissions, including
 
 * Lubricants
-* Paraffin Wax
+* Paraffin Waxmean
 * Solvents
 * Others",,,
 Electronics,``electronics``,"Includes emissions (especially F-GHGs) from processes and product use involved with the production of

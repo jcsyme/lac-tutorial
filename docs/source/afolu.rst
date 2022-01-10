@@ -14,7 +14,7 @@ Variables by Category
 Agriculture requires the following variables.
 
 .. csv-table:: For each agricultural category, trajectories of the following variables are needed.
-   :file: ./csvs/table_varreqs_by_category_afolu_agrc.csv
+   :file: ./csvs/table_varreqs_by_category_af_agrc.csv
    :widths: 20, 30, 30, 10, 10
    :header-rows: 1
 
@@ -40,7 +40,7 @@ Variables by Category
 ---------------------
 
 .. csv-table:: For each forest category, trajectories of the following variables are needed.
-   :file: ./csvs/table_varreqs_by_category_afolu_frst.csv
+   :file: ./csvs/table_varreqs_by_category_af_frst.csv
    :widths: 20, 30, 30, 10, 10
    :header-rows: 1
 
@@ -63,7 +63,7 @@ Variables by Category
 ---------------------
 
 .. csv-table:: For each land use category, trajectories of the following variables are needed.
-   :file: ./csvs/table_varreqs_by_category_afolu_lndu.csv
+   :file: ./csvs/table_varreqs_by_category_af_lndu.csv
    :widths: 20, 30, 30, 10, 10
    :header-rows: 1
 
@@ -102,7 +102,7 @@ Variables by Category
 ---------------------
 
 .. csv-table:: For each livestock category, trajectories of the following variables are needed.
-   :file: ./csvs/table_varreqs_by_category_afolu_lvst.csv
+   :file: ./csvs/table_varreqs_by_category_af_lvst.csv
    :widths: 20, 30, 30, 10, 10
    :header-rows: 1
 

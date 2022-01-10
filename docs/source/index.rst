@@ -31,7 +31,7 @@ Contents
 --------
 
 .. toctree::
-
+   analytical_parameters
    general_data
    afolu
    circular_economy

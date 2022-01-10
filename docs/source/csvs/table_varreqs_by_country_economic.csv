@@ -4,3 +4,6 @@ Commercial Value Added,Units: Billion USD (2020$),``va_commercial_mmm_usd``
 Industrial Value Added,Units: Billion USD (2020$),``va_industrial_mmm_usd``
 Manufacturing Value Added,Units: Billion USD (2020$),``va_manufacturing_mmm_usd``
 Mining Value Added,Units: Billion USD (2020$),``va_commercial_mmm_usd``
+Agriculture Value Added,Units: Billion USD (2020$),``va_agriculture_usd``
+Livestock Value Added,Units: Billion USD (2020$),``va_livestock_usd``
+Agriculture and Livestock (Combined),Units: Billion USD (2020$),``va_agliv_usd``

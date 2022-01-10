@@ -1,0 +1,10 @@
+Category Name,``$CAT-WASTE-SOLID$``,Description,Data Source,Hyperlink,Notes
+Food,``food``,Food waste,,,
+Metals,``metal``,Metals,,,
+Other,``other``,Other waste,,,
+Paper,``paper``,Paper products,,,
+Plastic,``plastic``,Plastic and ,,,
+Sanitary Napkins and Diapers,``sanitary_napkins``,Sanitary napkins and diapers,,,
+Textiles,``textiles``,Clothing and textiles,,,
+Wood,``wood``,Wood and wood products,,,
+Yard,``yard``,Garden and yard waste,,,
