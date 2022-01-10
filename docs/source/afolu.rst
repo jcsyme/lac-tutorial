@@ -76,7 +76,7 @@ Land use includes some variables that apply only to a subset of categories. Thes
    Note that the sum of all land use categories *u* at time period *t* should be should equal 1, i.e. :math:`\sum_u \varphi_u(t) = 1`, where :math:`\varphi_{\text{$CAT-LANDUSE$}}(t) \to` ``frac_lu_$CAT-LANDUSE$`` at period *t*.
 
 .. csv-table:: Trajectories of the following variables are needed for **some** land use categories.
-   :file: ./csvs/table_varreqs_by_partial_category_afolu_lndu.csv
+   :file: ./csvs/table_varreqs_by_partial_category_af_lndu.csv
    :widths: 20, 25, 25, 10, 10, 10
    :header-rows: 1
 
