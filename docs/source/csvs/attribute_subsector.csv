@@ -1,4 +1,4 @@
-﻿ Sector,Subsector,``$ABBREVIATION-SUBSECTOR$``,Description,Model
+﻿﻿ Sector,Subsector,``$ABBREVIATION-SUBSECTOR$``,Description,Model
 AFOLU,Agriculture,``agrc``,Agricultural activity ....,Python
 AFOLU,Forest,``frst``,Forest activity ....,Python
 AFOLU,Land Use,``lndu``,Land use activity ....,Python

@@ -1,4 +1,4 @@
-﻿ Gas , Name ,:math:`\text{CO}_2` equivalent factor , ``$EMISSION-GAS$`` 
+﻿﻿ Gas , Name ,:math:`\text{CO}_2` equivalent factor , ``$EMISSION-GAS$`` 
 :math:`\text{CH}_4` , Methane ,27.9,``ch4``
 :math:`\text{CO}_2` , Carbon Dioxide ,1,``co2``
  HFC-23 , HFC-23 ,14600,``hfc23``

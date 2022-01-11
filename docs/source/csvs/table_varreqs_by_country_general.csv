@@ -1,4 +1,4 @@
-﻿ Variable , Information , Variable Schema 
+﻿﻿ Variable , Information , Variable Schema 
 Area of Country ,"Units: Hectares (ha). Total area of the country, including land and water. ",``area_country_ha``
 Urban Population ,Units: # of people ,``population_urban`` 
 Rural Population ,Units: # of people ,``population_rural``

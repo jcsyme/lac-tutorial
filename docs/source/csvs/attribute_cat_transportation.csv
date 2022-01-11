@@ -1,4 +1,4 @@
-Category Name,``$CAT-TRANSPORTATION$``,Description,Data Source,Hyperlink,Notes
+﻿Category Name,``$CAT-TRANSPORTATION$``,Description,Data Source,Hyperlink,Notes
 Aviation,``aviation``,International and domestic civil (passenger and freight) and military aviation.,,,
 Light Road,``light_road``,"Transportation from public and private road-going automobiles, inluding cars and light duty trucks. NOTE: public fleets of cars (e.g., postal delivery vehicles or light-duty utility service vehicles) should be included here",,,
 Other,``other_transportation``,"Includes motorcycles, etc.",,,

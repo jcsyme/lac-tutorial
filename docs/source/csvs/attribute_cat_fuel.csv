@@ -1,4 +1,4 @@
-Category Name,``$CAT-FUEL$``,Description,Data Source,Hyperlink,Notes
+﻿Category Name,``$CAT-FUEL$``,Description,Data Source,Hyperlink,Notes
 Bioass,``fuel_biomass``,Biomass fuel,,,
 Coal,``fuel_coal``,Coal,,,
 Gas,``fuel_gas``,Natural gas,,,
