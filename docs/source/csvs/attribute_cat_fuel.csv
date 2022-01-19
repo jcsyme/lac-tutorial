@@ -1,6 +1,7 @@
 ﻿Category Name,``$CAT-FUEL$``,Description,Data Source,Hyperlink,Notes
 Bioass,``fuel_biomass``,Biomass fuel,,,
 Coal,``fuel_coal``,Coal,,,
+Electricity,``fuel_electricity``,Electricity,,,
 Gas,``fuel_gas``,Natural gas,,,
 Geothermal,``fuel_geothermal``,Geothermal fuel,,,
 Hydropower,``fuel_hydropower``,Hydro/water,,,
