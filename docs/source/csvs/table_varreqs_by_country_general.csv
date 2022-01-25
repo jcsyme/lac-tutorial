@@ -1,6 +1,6 @@
-﻿﻿ Variable , Information , Variable Schema 
-Area of Country ,"Units: Hectares (ha). Total area of the country, including land and water. ",``area_country_ha``
-Urban Population ,Units: # of people ,``population_urban`` 
-Rural Population ,Units: # of people ,``population_rural``
-Urban Occupation Rate,"Units: # of people per household, Urban Households",``occ_rate_urban``
-Rural Occupation Rate,"Units: # of people per household, Rural Households",``occ_rate_rural``
+﻿﻿ Variable , Information , Variable Schema ,Dashboard,Notes,Data Link,Reference
+Area of Country ,"Units: Hectares (ha). Total area of the country, including land and water. ",``area_country_ha``,`Area Dashboard <https://public.tableau.com/shared/3Z5YR59QT?:display_count=n&:origin=viz_share_link>`_,"FAO Country area: Area under national sovereignty. It is the sum of land area, inland waters and coastal waters. It excludes the exclusive economic zone.",`Get Area Data <https://drive.google.com/file/d/1NSDSYHo2FiGbkloxvI5OIBgObjQk252q/view?usp=sharing>`_,`Land Use and Area <https://www.fao.org/faostat/en/#data/RL>`_
+Urban Population ,Units: # of people ,``population_urban`` ,,,,
+Rural Population ,Units: # of people ,``population_rural``,,,,
+Urban Occupation Rate,"Units: # of people per household, Urban Households",``occ_rate_urban``,,,,
+Rural Occupation Rate,"Units: # of people per household, Rural Households",``occ_rate_rural``,,,,

@@ -103,7 +103,7 @@ Variables by Category
 
 .. csv-table:: For each livestock category, trajectories of the following variables are needed.
    :file: ./csvs/table_varreqs_by_category_af_lvst.csv
-   :widths: 20, 30, 30, 10, 10
+   :widths: 15, 20, 15, 10, 20, 10, 10
    :header-rows: 1
 
 Categories
@@ -113,5 +113,5 @@ Livestock should be divided into the following categories, given by ``$CAT-LIVES
 
 .. csv-table:: Livestock categories (``$CAT-LIVESTOCK$`` attribute table)
    :file: ./csvs/attribute_cat_livestock.csv
-   :widths: 15,15,30,15,10,15
+   :widths: 25, 25, 25, 25
    :header-rows: 1

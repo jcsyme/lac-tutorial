@@ -36,10 +36,7 @@ Categories - REGION
 
 NemoMod allows users to specify regions, and policies can be modeled that represent cross-regional power transfers, storage, etc. In the **MODELNAMEHERE** NemoMod implementation, each country is treated as a region.
 
-.. csv-table:: The following REGION dimensions are specified for the **MODELNAMEHERE** NemoMod model.
-   :file: ./csvs/attribute_cat_region.csv
-   :widths: 20, 25, 25, 10, 10, 10
-   :header-rows: 1
+
 
 Variables by Categories - REGION
 ------------------------------------
@@ -129,7 +126,7 @@ For each industrial category ``$CAT-INDUSTRY$``, the following variables are req
 
 Categories
 ----------
-Industrial categories are described in `Industial Processes and Product Use (IPPU) <../ippu.rst>`_.
+Industrial categories are described in `Industial Processes and Product Use (IPPU) <../ippu.html>`_.
 
 ----
 
